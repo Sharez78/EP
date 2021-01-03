@@ -1,0 +1,18 @@
+.ez{
+	
+	  background-image: url("pic.jpg");
+	  background-size: 2000px;
+	  background-repeat: no-repeat;
+}
+#ez1{
+	background-color: white;
+}
+.ez2{
+	position: relative;
+	top: 15px;
+	left: 700px;
+}
+
+#add{
+	 height:100px;
+}
